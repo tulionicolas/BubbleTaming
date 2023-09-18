@@ -1,0 +1,12 @@
+BGM (Background Music) – Música tocando no fundo do jogo (No nosso caso é o stage.mp3)
+
+SE (Sound Effect) – Efeitos de sons como vidro quebrando, sons de bala, fogo, socos… (No nosso caso é o ataque dos monstros: magic.wav e sword_swipe.mp3)
+
+ME (Music Effect) – São as músicas tocadas em alguns momentos específicos (Um pouco diferente da música de fundo), como usar item ou upar de level sendo uma música ao invés de um simples som. (Não usaremos nesse projeto)
+
+BGS (Background Sound) – São os sons que ficam tocando no fundo do cenário, por exemplo, grilos em uma floresta, chuvas, trovões, gritos (Constante no fundo do cenário)…. (Também não teremos no nosso projeto)
+
+
+Creditos Soundtracks
+
+http://www.freesfx.co.uk
